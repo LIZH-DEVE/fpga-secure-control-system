@@ -88,9 +88,3 @@ STM32 独立监测控制链路。上游通信中断或超过超时时间后，�
 - [设计决策](docs/design-decisions.md)
 - [验证说明](docs/verification.md)
 - [架构图源文件](architecture.mmd)
-
-## FPGA 源码
-
-RX50T FPGA 加密网关的 RTL、testbench、Vivado 构建脚本和板级调试工具位于：
-
-**[LIZH-DEVE/FPGA-Crypto-Gateway](https://github.com/LIZH-DEVE/FPGA-Crypto-Gateway)**
