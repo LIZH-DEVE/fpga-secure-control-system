@@ -119,13 +119,11 @@ STM32 侧保留独立的 fail-safe 逻辑。即使上游 Wi-Fi、ESP32 或 FPGA 
 - [验证结果摘要](EVIDENCE.md)
 - [证据索引](docs/evidence-index.md)
 
-## FPGA 源码
+## 相关代码
 
-FPGA 侧 RTL、testbench、host tools 与相关开发代码集中维护在：
+FPGA 加密网关的公开 RTL、testbench、构建脚本和板级调试工具见：
 
 **LIZH-DEVE/FPGA-Crypto-Gateway**
-
-本仓库主要用于项目展示、系统架构和验证结果说明。
 
 ## 文档
 
